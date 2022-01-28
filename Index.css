@@ -214,12 +214,54 @@ h1 {
     padding-top: 25%;
 }
 .icons{
-    display: flex;
-    justify-content: center;
     
+    justify-content: center;
+    margin-top: 100px;
+   
    
 
 }
+.images img{
+    padding: 30px;
+  
+
+}
+.images{
+    display: flex;
+    justify-content: center;
+}
+.box{
+    width: 800px;
+    background-color: tomato;
+    display: flex;
+    margin-left: 15%;
+    height: 70px;
+   
+
+    
+}
+.subscribe{
+    padding: 20px;
+    
+    color: white;
+
+
+}
+.subscribe >p{
+    font-size: 25x;
+
+}
+.email{
+    padding: 20px;
+    margin-left:25%;
+  
+}
+input{
+    height: 40px;
+    width: 250px;
+    border-radius: 6px;
+}
+
 
 
 
