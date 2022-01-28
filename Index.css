@@ -284,6 +284,16 @@ input{
     padding-left: 5%;
     
 }
+/* end of icons */
+.holder{
+    text-align: center;
+    padding: 10%;
+    
+      }
+      .para{
+        font-weight: bold;
+        font-size: 30px;
+      }
 
 
    
