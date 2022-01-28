@@ -33,11 +33,7 @@ ul li{
 }
 ul li a{
     text-decoration: none;
-    
-    
-
-
-}
+    }
 .nav{
     
 }
@@ -149,9 +145,70 @@ h1 {
     margin-right:10%;
 
 }
-.fn{
-    
+.home{
+    background-color: rgb(233, 231, 231);
+   
 
+}
+.industry{
+  text-align: center;
+  padding: 5%;
+  
+    }
+    .par{
+        font-weight: bold;
+        font-size: 30px;
+
+
+    }
+    .esc{
+        display: flex;
+        padding-top: 5%;
+        justify-content: center;
+    }
+    .love{
+        border: 1px solid rgb(99, 98, 98);
+        width: 200px;
+        height:300px ;
+       background-color: white; 
+       padding-top:3% ;
+       padding-bottom:3%;
+       padding-right: 3%;
+       padding-left: 3%;
+       margin-right: 3%;
+
+
+    }
+    .love >p{
+        padding-top: 25%;
+    }
+    .chirry{
+        border: 1px solid rgb(99, 98, 98);
+        width: 200px;
+        height:300px ;
+       background-color: white; 
+       padding-top:3% ;
+       padding-bottom:3%;
+       padding-right: 3%;
+       padding-left: 3%;
+       margin-right: 3%;
+}
+.chirry >p{
+    padding-top: 25%;
+}
+    
+.flora{
+    border: 1px solid rgb(99, 98, 98);
+    width: 200px;
+    height:300px ;
+   background-color: white; 
+   padding-top:3% ;
+   padding-bottom:3%;
+   padding-right: 3%;
+   padding-left: 3%;
+}
+.flora >p{
+    padding-top: 25%;
 }
 
 
