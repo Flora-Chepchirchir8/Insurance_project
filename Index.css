@@ -167,7 +167,7 @@ h1 {
         justify-content: center;
     }
     .love{
-        border: 1px solid rgb(99, 98, 98);
+        border: 3px solid rgb(224, 219, 219);
         width: 200px;
         height:300px ;
        background-color: white; 
@@ -176,6 +176,7 @@ h1 {
        padding-right: 3%;
        padding-left: 3%;
        margin-right: 3%;
+       border-radius: 9px;
 
 
     }
@@ -183,7 +184,7 @@ h1 {
         padding-top: 25%;
     }
     .chirry{
-        border: 1px solid rgb(99, 98, 98);
+        border: 3px solid rgb(224, 219, 219);
         width: 200px;
         height:300px ;
        background-color: white; 
@@ -192,13 +193,14 @@ h1 {
        padding-right: 3%;
        padding-left: 3%;
        margin-right: 3%;
+       border-radius: 9px;
 }
 .chirry >p{
     padding-top: 25%;
 }
     
 .flora{
-    border: 1px solid rgb(99, 98, 98);
+    border: 3px solid rgb(224, 219, 219);
     width: 200px;
     height:300px ;
    background-color: white; 
@@ -206,9 +208,11 @@ h1 {
    padding-bottom:3%;
    padding-right: 3%;
    padding-left: 3%;
+   border-radius: 9px;
 }
 .flora >p{
     padding-top: 25%;
 }
+
 
 
