@@ -146,7 +146,7 @@ h1 {
 
 }
 .home{
-    background-color: rgb(233, 231, 231);
+    background-color: rgba(226, 225, 225, 0.993);
    
 
 }
@@ -212,6 +212,9 @@ h1 {
 }
 .flora >p{
     padding-top: 25%;
+}
+.icons{
+    
 }
 
 
