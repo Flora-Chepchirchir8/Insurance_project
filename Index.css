@@ -28,10 +28,12 @@ ul li{
     font-size: 15px;
     color: white;
     
+    
 
 }
 ul li a{
     text-decoration: none;
+    
     
 
 
@@ -59,11 +61,76 @@ ul li a{
    
 
 }
-button{
-    background-color: rgb(48, 194, 219);
+.ctn{
+    background-color: #23A6F0;
     width: 200px;
     color: white;
     font-size: 15px;
 }
+.enter{
+    text-align: center;
+    padding-top: 15%;
+
+}
+h1 {
+    color: white;
+    font-weight: bold;
+    line-height: 50px;
+}
+.enter >p{
+    color: white;
+}
+.btn1{
+   border-radius: 20px;
+   height: 40px;
+   width: 120px;
+   background-color: #23A6F0;
+   color: white;
+}
+
+.btn2{
+    border-radius: 20px;
+    background: transparent;
+    height: 40px;
+    width: 120px;
+    color: white;
+}
+.shift{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 9%;
 
 
+
+}
+.wrapper{
+    background-color: rgb(233, 231, 231);
+    height: 850px;
+    
+}
+.tab{
+    width: 20%;
+    padding: 20px;
+    height: 150px;
+    background-color: #fff;
+    margin-right: 3%;
+  
+}
+
+.lock{
+    width: 20%;
+    padding: 20px;
+    height: 150px;
+    background-color: #fff;
+    margin-right: 3%;
+  
+}
+.pgdn{
+    width: 20%;
+    padding: 20px;
+    height: 150px;
+    background-color:#23A6F0;
+    margin-right: 3%;
+  
+}
