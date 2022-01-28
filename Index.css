@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+    position: relative;
+}
+.header{
+    background-image: url("Images/hero-cover.3.png");
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+
+}
+.alt{
+    display: flex;
+    padding-top: 2%;
+    text-align: center;
+
+}
+ul{
+
+
+}
+ul li{
+    display: inline;
+    padding: 20px 15px;
+    font-size: 20px;
+    color: white;
+    
+
+}
+ul li a{
+    text-decoration: none;
+    
+
+
+}
+.nav{
+    
+}
+.ctrl{
+    margin-left: 30%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+}  
+.brand{
+    font-size: 25px;
+}
