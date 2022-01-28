@@ -134,3 +134,24 @@ h1 {
     margin-right: 3%;
   
 }
+.insert{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 10%;
+
+}
+.peace{
+    margin-right:10%;
+
+}
+.set{
+    margin-right:10%;
+
+}
+.fn{
+    
+
+}
+
+
