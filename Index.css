@@ -232,10 +232,12 @@ h1 {
 }
 .box{
     width: 800px;
-    background-color: tomato;
+    
+background-image: linear-gradient(326deg, #a4508b 0%, #5f0a87 74%);
+
     display: flex;
     margin-left: 15%;
-    height: 70px;
+    height: 85px;
    
 
     
@@ -249,18 +251,43 @@ h1 {
 }
 .subscribe >p{
     font-size: 25x;
+    left: 20%;
+    padding-top: 5%;
+    
 
 }
 .email{
     padding: 20px;
     margin-left:25%;
+    padding-bottom: 20px;
   
 }
 input{
     height: 40px;
     width: 250px;
-    border-radius: 6px;
+    
+    
+    border-bottom-left-radius: 6px;
+    border-top-left-radius: 6px;
 }
+.sub{
+    background-color:#23A6F0 ;
+    color: white;
+    height: 43px;
+    border-bottom-right-radius: 6px;
+    border-top-right-radius: 6px;
+    width: 100px;
+    right: 1%;
+    
+}
+::placeholder{
+    padding-left: 5%;
+    
+}
+
+
+   
+
 
 
 
