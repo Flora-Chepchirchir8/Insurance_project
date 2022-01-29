@@ -377,6 +377,41 @@ input{
             color: rgb(104, 101, 101);
             font-size: 20px;
         }
+        /* end of pricing */
+        .lora{
+            background-color: #252B42;
+            height: 450px;
+            padding: 15%;
+            
+         
+
+        }
+        .neletu{
+            color: white;
+        }
+       
+        .beaker{
+            padding: 5%;
+            display: flex;
+            right: 100px;
+        }
+
+        .src{
+            left:200px;
+           
+        }
+        .main{
+            padding-top: 10%;
+        }
+        .crucial {
+
+            display: flex;
+        }
+        .tiri{
+            
+        }
+
+
 
 
 
