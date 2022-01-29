@@ -102,7 +102,7 @@ h1 {
 
 }
 .wrapper{
-    background-color: rgb(233, 231, 231);
+    background-color: rgb(250, 248, 248);
     height: 850px;
     
 }
@@ -147,7 +147,7 @@ h1 {
 
 }
 .home{
-    background-color: rgba(226, 225, 225, 0.993);
+    background-color: rgb(250, 248, 248);
    
 
 }
@@ -168,7 +168,7 @@ h1 {
         justify-content: center;
     }
     .love{
-        border: 3px solid rgb(224, 219, 219);
+        border: 3px solid rgb(250, 248, 248);
         width: 200px;
         height:300px ;
        background-color: white; 
@@ -185,7 +185,7 @@ h1 {
         padding-top: 25%;
     }
     .chirry{
-        border: 3px solid rgb(224, 219, 219);
+        border: 3px solid rgb(250, 248, 248);
         width: 200px;
         height:300px ;
        background-color: white; 
@@ -201,7 +201,7 @@ h1 {
 }
     
 .flora{
-    border: 3px solid rgb(224, 219, 219);
+    border: 3px solid rgb(250, 248, 248);
     width: 200px;
     height:300px ;
    background-color: white; 
@@ -383,7 +383,7 @@ background-image: linear-gradient(326deg, #a4508b 0%, #5f0a87 74%);
         /* end of pricing */
         .lora{
             background-color: #252B42;
-            height: 450px;
+            height: 350px;
             padding: 15%;
             
          
@@ -405,11 +405,17 @@ background-image: linear-gradient(326deg, #a4508b 0%, #5f0a87 74%);
         }
         .main{
             padding-top: 10%;
+            background-color: rgb(250, 248, 248);
+            height: 1200px;
+           
         }
         .crucial {
 
             display: flex;
             align-content: center;
+            align-items: center;
+            margin-left: 25%;
+            height: 200px;
         }
         .tiri{
             background-color: white;
@@ -424,6 +430,7 @@ background-image: linear-gradient(326deg, #a4508b 0%, #5f0a87 74%);
             font-weight: bold;
             font-size: 20px;
             text-align: center;
+            padding-top: 10%;
 
 
         } 
@@ -443,6 +450,7 @@ background-image: linear-gradient(326deg, #a4508b 0%, #5f0a87 74%);
             width: 250px;
             justify-content: center;
             border-radius: 6px;
+            background-color: rgb(250, 248, 248);
     
           
         }
@@ -450,6 +458,46 @@ background-image: linear-gradient(326deg, #a4508b 0%, #5f0a87 74%);
             
             padding: 15%;
         }
+        /* .live{
+            display: flex;
+        } */
+        .ton{
+            background-color: #23A6F0;
+            padding: 0.5%;
+            color: white;
+            left: 350px;
+            border-radius: 6px;
+            height: 50px;
+            width: 100px;
+
+        }
+        .live{
+            display: flex;
+            padding-top: 200px;
+            padding-left: 150px;
+        }
+        .manage{
+            background-color: white;
+            display: flex;
+        }
+        .company ul li{
+            color: black;
+
+           
+        }
+        .legal ul li{
+            color: black;
+        }
+        .feature ul li{
+            color: black;
+        }
+        .resource ul li{
+            color: black;
+        }
+        .get ul li{
+            color: black;
+        }
+
 
         
        
