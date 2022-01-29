@@ -164,8 +164,9 @@ h1 {
     }
     .esc{
         display: flex;
-        padding-top: 5%;
+        /* padding-top: 5%; */
         justify-content: center;
+
     }
     .love{
         border: 3px solid rgb(250, 248, 248);
@@ -483,6 +484,7 @@ background-image: linear-gradient(326deg, #a4508b 0%, #5f0a87 74%);
             padding: 5%;
             height: 200px;
            
+           
           
         }
         .company ul li{
@@ -504,13 +506,35 @@ background-image: linear-gradient(326deg, #a4508b 0%, #5f0a87 74%);
         .lastly{
             display: flex;
             background-color: rgb(250, 248, 248);
-            height: 150px;
+            height: 100px
+          
            
         }
         .twitter{
             display: flex;
             color:  #23A6F0;
+           
+            padding-top: 45px;
+            margin-left: 50%;
+           
+            
+            
         }
+        .all{
+            padding-top: 45px;
+            left: 250px;
+        }
+        .twitter .face{
+            margin-right:25%;
+          
+        }
+        .twitter .insta{
+            margin-right:25%;
+        }
+        .company{
+            margin-left: 10%;
+        }
+       
 
 
         
